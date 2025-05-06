@@ -13,6 +13,9 @@
 
     <script src="/js/scripts.js"></script>
     <script src="https://cdn.jsdelivr.net/npm/fslightbox/index.js"></script>
+    {{ $styles := resources.Get "css/main.css" | postCSS (dict "config" "./postcss.config.js") | minify | fingerprint }}
+    <link rel="stylesheet" href="{{ $styles.RelPermalink }}" integrity="{{ $styles.Data.Integrity }}">
+    {{ partial "scroll-animation.js" . }}
 
 </body>
 </html>
