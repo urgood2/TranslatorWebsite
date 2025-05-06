@@ -1,7 +1,7 @@
 <section id="skills" class="py-16 bg-gray-50">
     <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
       {{ with .Site.GetPage "skills" }}
-        <h2 class="text-3xl font-bold text-center mb-12 heading-font">{{ .Params.intro }}</h2>
+        <h2 class="text-3xl font-bold text-center mb-12 font-heading">{{ .Params.intro }}</h2>
   
         <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6 mb-12">
           {{ range .Params.domains }}
@@ -17,7 +17,7 @@
           {{ end }}
         </div>
   
-        <h3 class="text-2xl font-semibold text-center mb-6 heading-font">{{ .Params.technical_title }}</h3>
+        <h3 class="text-2xl font-semibold text-center mb-6 font-heading">{{ .Params.technical_title }}</h3>
         <div class="flex flex-wrap justify-center gap-3">
           {{ range .Params.technical }}
           <span class="skill-pill bg-blue-100 text-blue-800 px-4 py-2 rounded-full font-medium">{{ . }}</span>
