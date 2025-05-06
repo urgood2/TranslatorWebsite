@@ -11,7 +11,7 @@ positions:
     period: "2023 - Present"
     bullet_points:
       - "Lead development of autonomous tools for real-time structural analysis"
-      - "Created machine learning models that estimate concrete demand with 92% accuracy"
+      - "Created machine learning models that estimate concrete demand with good accuracy"
       - "Authored technical reports for innovation projects seeking $1M+ investments"
 
   - company: "Tensacon"

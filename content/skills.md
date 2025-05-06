@@ -6,11 +6,11 @@ intro: "Skills & Expertise"
 domains:
   - icon: "brain"
     title: "Artificial Intelligence"
-    description: "Developing ML models for construction applications, specializing in predictive analytics and computer vision for structural analysis."
+    description: "Developing ML models for construction applications, specializing in predictive analytics."
 
   - icon: "code"
     title: "Software Development"
-    description: "Building scalable engineering software solutions with Python, JavaScript, and modern frameworks to streamline AEC workflows."
+    description: "Building scalable engineering software solutions with Python and modern frameworks to streamline AEC workflows."
 
   - icon: "project-diagram"
     title: "Project Management"
@@ -22,11 +22,8 @@ domains:
 
   - icon: "lightbulb"
     title: "Business Strategy"
-    description: "Developing innovation strategies and securing investments for tech-driven construction solutions."
+    description: "Developing innovation strategies and helping on securing investments for tech-driven construction solutions."
 
-  - icon: "leaf"
-    title: "Sustainable Development"
-    description: "Implementing eco-conscious practices in construction projects and developing tools for environmental impact assessment."
 
 technical_title: "Technical Skills"
 technical:
