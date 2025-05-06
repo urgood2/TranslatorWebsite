@@ -20,8 +20,8 @@ github_text = "github.com/felipecordero"
 copyright = "© 2025 Felipe Cordero. All rights reserved."
 
 collab_tags = [
-  "AI in Construction",
   "Engineering Software",
+  "AI in Construction",
   "BIM Automation",
   "Predictive Analytics",
   "Sustainable Design"

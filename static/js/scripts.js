@@ -52,11 +52,12 @@
         });
 
         // Form submission
-        document.getElementById('contact-form').addEventListener('submit', function(e) {
-            e.preventDefault();
+    //     document.getElementById('contact-form').addEventListener('submit', function(e) {
+    //         // e.preventDefault();
             
-            // Here you would typically send the form data to a server
-            // For this example, we'll just show a success message
-            alert('Thank you for your message! I will get back to you soon.');
-            this.reset();
-        });
+    //         // Here you would typically send the form data to a server
+    //         // For this example, we'll just show a success message
+    //         alert('Thank you for your message! I will get back to you soon.');
+    //         this.reset();
+    //     }
+    // );
