@@ -7,8 +7,8 @@ module.exports = {
   theme: {
     extend: {
       fontFamily: {
-        sans: ['Nunito', 'sans-serif'],       // 👈 cuerpo de texto
-        heading: ['Montserrat', 'sans-serif'], // 👈 títulos
+        sans: ['"Nunito Sans"', 'sans-serif'],
+        heading: ['Montserrat', 'sans-serif'],
       },
       keyframes: {
         'fade-in-up': {
