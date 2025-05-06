@@ -1,0 +1,85 @@
+<nav class="fixed w-full bg-white shadow-md z-50">
+  <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+    <div class="flex justify-between h-16">
+      <div class="flex items-center">
+        <a href="/#home" class="text-xl font-bold text-blue-600 heading-font">{{ .Site.Params.name }}</a>
+      </div>
+      <div class="hidden md:flex items-center space-x-8">
+        {{ range .Site.Menus.main }}
+          {{ if .HasChildren }}
+          <div class="relative group">
+            <a href="{{ .URL }}" class="nav-link text-gray-800 hover:text-blue-600 flex items-center">
+              {{ .Pre | safeHTML }}{{ .Name }}
+              <i class="fas fa-chevron-down ml-2 text-sm"></i>
+            </a>
+            <div class="submenu absolute left-0 top-full mt-2 bg-white shadow-lg rounded-lg z-50 min-w-[10rem] opacity-0 invisible group-hover:opacity-100 group-hover:visible transition duration-200">
+              {{ range .Children }}
+                <a href="{{ .URL }}" class="block px-4 py-2 text-sm text-gray-800 hover:bg-gray-100">
+                  {{ .Name }}
+                </a>
+              {{ end }}
+            </div>
+          </div>
+          {{ else }}
+            <a href="{{ .URL }}" class="nav-link text-gray-800 hover:text-blue-600">{{ .Name }}</a>
+          {{ end }}
+        {{ end }}
+      </div>
+      <div class="md:hidden flex items-center">
+        <button id="menu-btn" class="text-gray-800 hover:text-blue-600">
+          <i class="fas fa-bars text-2xl"></i>
+        </button>
+      </div>
+    </div>
+  </div>
+
+  <!-- Mobile menu -->
+  <div id="mobile-menu" class="hidden md:hidden bg-white shadow-lg">
+    <div class="px-2 pt-2 pb-3 space-y-1 sm:px-3">
+      {{ range .Site.Menus.main }}
+        <a href="{{ .URL }}" class="block px-3 py-2 rounded-md text-base font-medium text-gray-800 hover:text-blue-600 hover:bg-gray-100">
+          {{ .Name }}
+        </a>
+        {{ if .HasChildren }}
+          {{ range .Children }}
+            <a href="{{ .URL }}" class="block pl-6 py-1 text-sm text-gray-600 hover:text-blue-600">{{ .Name }}</a>
+          {{ end }}
+        {{ end }}
+      {{ end }}
+    </div>
+  </div>
+
+  <!-- Additional styles -->
+  <style>
+    .group.open .submenu {
+      opacity: 1 !important;
+      visibility: visible !important;
+    }
+  </style>
+
+  <!-- JavaScript to manage submenu toggle -->
+  <script>
+    document.querySelectorAll('.group > a.nav-link').forEach(link => {
+      link.addEventListener('click', function(e) {
+        e.preventDefault();
+        const group = this.closest('.group');
+        const isOpen = group.classList.contains('open');
+
+        // Close all other submenus
+        document.querySelectorAll('.group').forEach(g => g.classList.remove('open'));
+
+        // Toggle current submenu
+        if (!isOpen) {
+          group.classList.add('open');
+        }
+      });
+
+      document.addEventListener('click', function(event) {
+        const group = link.closest('.group');
+        if (!group.contains(event.target)) {
+          group.classList.remove('open');
+        }
+      });
+    });
+  </script>
+</nav>

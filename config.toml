@@ -1,0 +1,88 @@
+baseURL = "https://felipecordero.com"
+languageCode = "en-us"
+title = "Felipe Cordero"
+
+[params]
+name = "Felipe Cordero"
+tagline = "Engineer. Coder. Problem Solver."
+location = "Montréal, Canada"
+email = "mail@felipecordero.com"
+profile_image = "/images/profile_picture_1.jpeg"
+
+hero_description = "Structural engineer and software developer combining 14+ years in AEC with AI/ML expertise to build smarter construction tech solutions."
+hero_location = "Montréal, Canada"
+
+linkedin_url = "https://www.linkedin.com/in/felipe-cordero-osorio"
+linkedin_text = "linkedin.com/in/felipe-cordero-osorio"
+github_url = "https://github.com/felipecordero"
+github_text = "github.com/felipecordero"
+
+copyright = "© 2025 Felipe Cordero. All rights reserved."
+
+collab_tags = [
+  "AI in Construction",
+  "Engineering Software",
+  "BIM Automation",
+  "Predictive Analytics",
+  "Sustainable Design"
+]
+
+resume_url = "/files/cv_felipe_cordero.pdf"
+resume_label = "Download Full Resume"
+
+[[params.social]]
+icon = "linkedin-in"
+url = "https://www.linkedin.com/in/felipe-cordero-osorio/"
+
+[[params.social]]
+icon = "github"
+url = "https://github.com/felipecordero"
+
+
+sectionPagesMenu = 'main'
+
+[[menu.main]]
+  name = "Experience"
+  url = "/#experience"
+  weight = 4
+
+# [[menu.main]]
+#   name = "Home"
+#   url = "/#home"
+#   weight = 1
+
+[[menu.main]]
+  name = "About"
+  url = "/#about"
+  weight = 2
+
+[[menu.main]]
+  name = "Skills"
+  url = "/#skills"
+  weight = 3
+
+[[menu.main]]
+  name = "Experience"
+  url = "/#experience"
+  weight = 4
+
+[[menu.main]]
+  name = "Contact"
+  url = "/#contact"
+  weight = 5
+
+[[menu.main]]
+name = "Structural Engineering"
+identifier = "products"
+url = "#"
+weight = 50
+
+[taxonomies]
+  tag = "tags"
+
+[markup.goldmark.renderer]
+unsafe = true
+
+
+
+
