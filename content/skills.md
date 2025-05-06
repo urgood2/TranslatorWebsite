@@ -28,13 +28,17 @@ domains:
 technical_title: "Technical Skills"
 technical:
   - Python
+  - Docker
   - PyTorch
   - TensorFlow
   - JavaScript
   - HTML/CSS
+  - Streamlit
+  - Plotly Dash
   - BIM
   - AutoCAD
   - Revit
+  - OpenSees
   - SAP2000
   - ETABS
   - SQL

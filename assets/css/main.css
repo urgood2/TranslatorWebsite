@@ -5,6 +5,10 @@
 @tailwind components;
 @tailwind utilities;
 
+html {
+    scroll-behavior: smooth;
+  }
+
 
 body {
     font-family: 'Nunito Sans', sans-serif;
@@ -94,28 +98,3 @@ body {
 section[id] {
     scroll-margin-top: 3rem; /* adjust as needed */
     }
-
-.markdown-content h1, .markdown-content h2, .markdown-content h3 {
-    /* Your custom styles here */
-    font-weight: bold;
-    margin-top: 2rem;
-    margin-bottom: 1rem;
-}
-
-.markdown-content p {
-    margin-bottom: 1rem;
-}
-
-.markdown-content ul, .markdown-content ol {
-    margin-bottom: 1rem;
-    padding-left: 1.5rem;
-}
-
-.markdown-content ul {
-    list-style: disc;
-}
-
-.markdown-content ol {
-    list-style: decimal;
-}
-      

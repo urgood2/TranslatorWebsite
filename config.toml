@@ -8,6 +8,8 @@ tagline = "Engineer. Coder. Problem Solver."
 location = "Montréal, Canada"
 email = "mail@felipecordero.com"
 profile_image = "/images/profile_picture_1.jpeg"
+description = "Structural engineer and AI developer solving real-world problems in construction tech."
+author = "Felipe Cordero"
 
 hero_description = "Structural engineer and software developer combining 14+ years in AEC with AI/ML expertise to build smarter construction tech solutions."
 hero_location = "Montréal, Canada"
@@ -17,7 +19,7 @@ linkedin_text = "linkedin.com/in/felipe-cordero-osorio"
 github_url = "https://github.com/felipecordero"
 github_text = "github.com/felipecordero"
 
-copyright = "© 2025 Felipe Cordero. All rights reserved."
+copyright = "© 2025 | Felipe Cordero"
 
 collab_tags = [
   "Engineering Software",
@@ -76,6 +78,12 @@ name = "Structural Engineering"
 identifier = "products"
 url = "#"
 weight = 50
+
+[[menu.main]]
+name = "Contributions"
+identifier = "contributions"
+url = "#"
+weight = 51
 
 [taxonomies]
   tag = "tags"

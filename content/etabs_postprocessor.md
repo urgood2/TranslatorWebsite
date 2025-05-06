@@ -4,9 +4,7 @@ title = "ETABS Post-Processor"
   parent = "products"
 +++
 
-# ETABS Post-Processor
-
-Program that allows working with ETABS databases through a high-level graphical interface. This program allows:
+#### Program that allows working with ETABS databases through a high-level graphical interface. This program allows:
 
 - Quickly verify the structural “health” of the building
 - Check forces in elements

@@ -5,7 +5,8 @@
 
     <div class="text-center mb-12">
       <a href="{{ $.Site.Params.resume_url }}" target="_blank" rel="noopener noreferrer"
-         class="inline-flex items-center bg-blue-600 text-white text-lg px-6 py-4 rounded-lg font-semibold shadow hover:bg-blue-700 transition duration-300">
+          aria-label="Download resume as PDF"
+          class="inline-flex items-center bg-blue-600 text-white text-lg px-6 py-4 rounded-lg font-semibold shadow hover:bg-blue-700 transition duration-300">
         <i class="fas fa-file-pdf text-2xl mr-3"></i>
         Open Full Resume
       </a>
@@ -24,8 +25,9 @@
             <div class="md:w-1/2 mb-4 md:mb-0 px-4 flex {{ if modBool $index 2 }}order-1 text-left{{ else }}justify-end text-right{{ end }}">
               <div class="max-w-xs">
                 <div class="inline-block bg-blue-600 text-white px-4 py-1 rounded-full text-sm font-medium mb-2">{{ $exp.period }}</div>
-                <h3 class="text-xl font-semibold">{{ $exp.company }}</h3>
-                <h4 class="text-blue-600">{{ $exp.role }}</h4>
+                <h3 class="text-xl font-heading font-semibold">{{ $exp.company }}</h3>
+                <h4 class="text-blue-600 font-medium">{{ $exp.role }}</h4>
+
               </div>
             </div>
 
@@ -47,21 +49,3 @@
     {{ end }}
   </div>
 </section>
-
-<script>
-  tailwind.config = {
-    theme: {
-      extend: {
-        keyframes: {
-          'fade-in-up': {
-            '0%': { opacity: '0', transform: 'translateY(20px)' },
-            '100%': { opacity: '1', transform: 'translateY(0)' },
-          },
-        },
-        animation: {
-          'fade-in-up': 'fade-in-up 0.6s ease-out forwards',
-        },
-      },
-    },
-  }
-</script>

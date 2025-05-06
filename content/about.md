@@ -21,10 +21,10 @@ personal: >
 quickfacts:
   - icon: briefcase
     title: "Current Role"
-    value: "Senior Sof Developer at ObraLink"
+    value: "Senior Software Developer at ObraLink"
   - icon: graduation-cap
     title: "Education"
-    value: "AI and Machine Learning at Collège LaSalle"
+    value: "AI and Machine Learning at Collège LaSalle Montréal"
   - icon: language
     title: "Languages"
     value: "French, English, Spanish"
