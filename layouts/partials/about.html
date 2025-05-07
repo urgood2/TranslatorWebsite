@@ -4,16 +4,16 @@
       <div class="flex flex-col lg:flex-row gap-12">
         {{ with .Site.GetPage "about" }}
         <div class="lg:w-2/3">
-          <p class="text-lg mb-6">{{ .Params.intro }}</p>
-          <p class="text-lg mb-6">{{ .Params.study }}</p>
+          <p class="text-lg mb-6">{{ .Params.intro | markdownify }}</p>
+          <p class="text-lg mb-6">{{ .Params.study | markdownify }}</p>
   
           <div class="bg-blue-50 p-6 rounded-lg mb-6">
             <h3 class="text-xl font-semibold mb-3 text-blue-800">{{ .Params.passion_title }}</h3>
-            <p class="text-blue-900">{{ .Params.passion_text }}</p>
+            <p class="text-blue-900">{{ .Params.passion_text | markdownify }}</p>
           </div>
   
-          <p class="text-lg mb-6">{{ .Params.mix }}</p>
-          <p class="text-lg">{{ .Params.personal }}</p>
+          <p class="text-lg mb-6">{{ .Params.mix | markdownify }}</p>
+          <p class="text-lg">{{ .Params.personal | markdownify }}</p>
         </div>
   
         <div class="lg:w-1/3">
@@ -27,7 +27,7 @@
                 </div>
                 <div>
                   <h4 class="font-bold">{{ .title }}</h4>
-                  <p class="text-gray-600">{{ .value }}</p>
+                  <p class="text-gray-600">{{ .value | markdownify }}</p>
                 </div>
               </div>
               {{ end }}

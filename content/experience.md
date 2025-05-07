@@ -6,9 +6,18 @@ resume_url: "#"
 resume_label: "Download Full Resume"
 
 positions:
+  - company: "Fireraven"
+    role: "AI Intern"
+    period: "May 2025 - Present"
+    bullet_points:
+      - "Design and development of new security and compliance features for LLM-based agents"
+      - "Debugging, troubleshooting, and optimizing code to ensure platform reliability"
+      - "Integrating and managing SQL databases (e.g., PostgreSQL) while leveraging cloud tools"
+      - Contributing to the real-time deployment and monitoring to ensure regulatory compliance.
+
   - company: "ObraLink"
     role: "Senior Software Developer"
-    period: "2023 - Present"
+    period: "2023 - May 2025"
     bullet_points:
       - "Lead development of autonomous tools for real-time structural analysis"
       - "Created machine learning models that estimate concrete demand with good accuracy"
