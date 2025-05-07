@@ -21,7 +21,9 @@
   <meta property="og:title" content="{{ if .IsHome }}{{ .Site.Title }} | {{ .Site.Params.tagline }}{{ else }}{{ .Title }} | {{ .Site.Title }}{{ end }}" />
   <meta property="og:description" content="{{ with .Params.description }}{{ . }}{{ else }}{{ .Site.Params.description }}{{ end }}" />
   <meta property="og:url" content="{{ .Permalink }}" />
-  <meta property="og:image" content="{{ .Site.BaseURL }}{{ .Site.Params.image }}" />
+  <meta property="og:image" content="{{ with .Params.og_image }}{{ . | absURL }}{{ else }}{{ with site.Params.og_image }}{{ . | absURL }}{{ end }}{{ end }}">
+  <meta property="og:description" content="{{ with .Params.description }}{{ . }}{{ else }}{{ .Site.Params.description }}{{ end }}">
+
 
   <!-- 🐦 Twitter Card -->
   <meta name="twitter:card" content="summary_large_image" />

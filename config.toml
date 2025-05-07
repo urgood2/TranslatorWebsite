@@ -7,9 +7,11 @@ name = "Felipe Cordero"
 tagline = "Engineer. Coder. Problem Solver."
 location = "Montréal, Canada"
 email = "mail@felipecordero.com"
-profile_image = "/images/profile_picture_1.jpeg"
+profile_image = "/images/felipe-cordero-profile.jpeg"
 description = "Structural engineer and AI developer solving real-world problems in construction tech."
 author = "Felipe Cordero"
+
+og_image = "images/felipe-cordero-og.png"
 
 hero_description = "Structural engineer and software developer combining 14+ years in AEC with AI/ML expertise to build smarter construction tech solutions."
 hero_location = "Montréal, Canada"
