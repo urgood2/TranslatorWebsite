@@ -1,4 +1,3 @@
-
 @import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@500;600&family=Nunito+Sans:wght@400;600&display=swap');
 
 @tailwind base;
@@ -22,6 +21,10 @@ body {
     background: linear-gradient(135deg, #3b82f6 0%, #1d4ed8 100%);
 }
 
+.dark .gradient-bg {
+    background: linear-gradient(135deg, #1e40af 0%, #1e3a8a 100%);
+}
+
 .skill-pill {
     transition: all 0.3s ease;
 }
@@ -29,6 +32,10 @@ body {
 .skill-pill:hover {
     transform: translateY(-3px);
     box-shadow: 0 10px 15px -3px rgba(0, 0, 0, 0.1);
+}
+
+.dark .skill-pill:hover {
+    box-shadow: 0 10px 15px -3px rgba(0, 0, 0, 0.3);
 }
 
 .project-card {
@@ -39,6 +46,10 @@ body {
 .project-card:hover {
     transform: translateY(-5px);
     box-shadow: 0 20px 25px -5px rgba(0, 0, 0, 0.1);
+}
+
+.dark .project-card:hover {
+    box-shadow: 0 20px 25px -5px rgba(0, 0, 0, 0.3);
 }
 
 .project-inner {
@@ -61,6 +72,10 @@ body {
     transform: translateX(-50%);
 }
 
+.dark .timeline-item:not(:last-child)::after {
+    background-color: #60a5fa;
+}
+
 .nav-link {
     position: relative;
 }
@@ -76,14 +91,22 @@ body {
     transition: width 0.3s ease;
 }
 
+.dark .nav-link::after {
+    background-color: #60a5fa;
+}
+
 .nav-link:hover::after {
     width: 100%;
 }
 
 .active-nav {
     font-weight: 600;
-    color:#2563eb; /* Tailwind blue-600 */
-    }
+    color: #2563eb;
+}
+
+.dark .active-nav {
+    color: #60a5fa;
+}
 
 .hero-image {
     animation: float 6s ease-in-out infinite;
