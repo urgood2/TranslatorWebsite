@@ -28,7 +28,7 @@ quickfacts:
     value: "**AI and Machine Learning** at Collège LaSalle Montréal"
   - icon: language
     title: "Languages"
-    value: "**French**, **English**, **Spanish**"
+    value: "**English**, **Spanish**, **French**"
   - icon: heart
     title: "Interests"
     value: "Playing **tennis**, **Cooking**, **Drumming**, **Photography**, **Swimming**"
