@@ -1,14 +1,18 @@
 # Personal Website
 
-This is my personal website built with Hugo, a fast and modern static site generator. The site features a clean, responsive design powered by Tailwind CSS.
+This is my personal website built with Hugo, a fast and modern static site generator. The site features a clean, responsive design powered by Tailwind CSS and uses my own theme, CareerCanvas.
 
 ## 🚀 Features
 
 - Built with Hugo static site generator
+- Uses CareerCanvas theme (my own creation)
 - Styled with Tailwind CSS
-- Responsive design
+- Responsive design with dark mode support
 - Typography plugin for better content formatting
 - Custom layouts and templates
+- Image galleries for project showcases
+- Multilingual support (English/French)
+- Interactive skills and experience sections
 
 ## 🛠️ Prerequisites
 
@@ -35,27 +39,40 @@ npm install
 To start the development server:
 
 ```bash
-hugo server -D
+npm run dev
 ```
 
 The site will be available at `http://localhost:1313`
 
 ## 🏗️ Building
 
-To build the site for production:
+To build the site for production, you need to:
 
+1. Build the CSS with Tailwind:
 ```bash
-hugo
+npm run build:css
+```
+
+2. Build the site with Hugo:
+```bash
+npm run build
+```
+
+Or you can do both in one command:
+```bash
+npm run build:css && npm run build
 ```
 
 The built site will be in the `public/` directory.
+
+Note: The CSS build step is necessary because the site uses Tailwind CSS, which needs to be processed to generate the final CSS file with only the used styles.
 
 ## 📁 Project Structure
 
 - `assets/` - Contains source files for CSS, JavaScript, and other assets
 - `content/` - Contains the content of your site
-- `layouts/` - Contains HTML templates
 - `static/` - Contains static files like images
+- `themes/careercanvas/` - Contains the CareerCanvas theme
 - `config.toml` - Main configuration file
 - `tailwind.config.js` - Tailwind CSS configuration
 
@@ -64,6 +81,17 @@ The built site will be in the `public/` directory.
 - [Hugo](https://gohugo.io/) - Static site generator
 - [Tailwind CSS](https://tailwindcss.com/) - Utility-first CSS framework
 - [@tailwindcss/typography](https://tailwindcss.com/docs/typography-plugin) - Typography plugin for Tailwind CSS
+- [CareerCanvas](https://github.com/felipecordero/careercanvas) - Custom Hugo theme
+
+## 👨‍💻 About the Theme
+
+The CareerCanvas theme is my own creation, designed specifically for technical and engineering portfolios. It features:
+- Modern, responsive design
+- Dark mode support
+- Interactive components
+- Image galleries
+- Multilingual support
+- Optimized for technical content
 
 ## 📝 License
 
@@ -75,4 +103,4 @@ Contributions, issues, and feature requests are welcome! Feel free to check the 
 
 ## 📫 Contact
 
-For any questions or suggestions, please open an issue in the GitHub repository. 
+For any questions or suggestions, please open an issue in the GitHub repository or visit [felipecordero.com](https://felipecordero.com). 

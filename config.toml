@@ -1,6 +1,10 @@
 baseURL = "https://felipecordero.com"
 languageCode = "en-us"
 title = "Felipe Cordero"
+theme = "careercanvas"
+
+[build]
+  writeStats = true
 
 [params]
 name = "Felipe Cordero"
@@ -43,18 +47,12 @@ url = "https://www.linkedin.com/in/felipe-cordero-osorio/"
 icon = "github"
 url = "https://github.com/felipecordero"
 
-
 sectionPagesMenu = 'main'
 
 [[menu.main]]
   name = "Experience"
   url = "/#experience"
   weight = 4
-
-# [[menu.main]]
-#   name = "Home"
-#   url = "/#home"
-#   weight = 1
 
 [[menu.main]]
   name = "About"

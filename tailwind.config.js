@@ -4,6 +4,8 @@ module.exports = {
     './layouts/**/*.html',
     './content/**/*.md',
     './assets/js/**/*.js',
+    './themes/careercanvas/layouts/**/*.html',
+    './themes/careercanvas/assets/js/**/*.js',
   ],
   theme: {
     extend: {

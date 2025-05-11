@@ -75,7 +75,10 @@
     "yargs-parser": "^21.1.1"
   },
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "dev": "hugo server -D",
+    "build": "hugo --gc --minify",
+    "build:css": "tailwindcss -i ./themes/careercanvas/assets/css/main.css -o ./themes/careercanvas/static/css/main.css --minify",
+    "watch:css": "tailwindcss -i ./themes/careercanvas/assets/css/main.css -o ./themes/careercanvas/static/css/main.css --watch"
   },
   "repository": {
     "type": "git",
