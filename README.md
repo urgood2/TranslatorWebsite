@@ -42,6 +42,8 @@ To start the development server:
 npm run dev
 ```
 
+This command runs `hugo server -D`, which starts a local server and includes draft content (content with `draft: true` in the front matter). This is useful for previewing unpublished or in-progress content during development.
+
 The site will be available at `http://localhost:1313`
 
 ## 🏗️ Building
@@ -103,4 +105,8 @@ Contributions, issues, and feature requests are welcome! Feel free to check the 
 
 ## 📫 Contact
 
-For any questions or suggestions, please open an issue in the GitHub repository or visit [felipecordero.com](https://felipecordero.com). 
+For any questions or suggestions, please open an issue in the GitHub repository or visit [felipecordero.com](https://felipecordero.com).
+
+## 🚨 Important Note
+
+The built CSS file (`themes/careercanvas/static/css/main.css`) is managed by the theme submodule and should not be committed separately in this repository. If you need to update the CSS, please do so in the theme repository and then update the submodule here. 
