@@ -1,5 +1,7 @@
 ---
 title: "About"
+type: "homepage"
+featured_image: "/images/felipe-cordero-profile.jpeg"
 intro: >-
   Hi! I'm Felipe Cordero, a **structural engineer** and **software developer** with **14+ years** in AEC. I combine my engineering background with modern tech to solve complex problems in construction and automation.
 study: >-

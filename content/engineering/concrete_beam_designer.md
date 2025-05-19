@@ -1,7 +1,7 @@
 +++
 title = "Concrete Beam Designer"
-[menus.main]
-  parent = "products"
+featured_image = "/images/beams_demo_image.png"
+tags = ["structural-engineering", "design-tools", "concrete-design", "python", "streamlit", "beam-analysis"]
 +++
 
 
@@ -9,9 +9,12 @@ title = "Concrete Beam Designer"
 
 Many years ago, during my early coding adventures, I developed a concrete beam calculator to assist with structural analysis using **Python**. Today, I'm happy to present its modern reincarnation as a web application, powered by [Streamlit](https://streamlit.io/). It could be not perfect, but was very useful for me at the beginning of my structural engineering career.
 
-<a href="https://concrete-beam-calculator.streamlit.app/" target="_blank">
-  <img src="https://static.streamlit.io/badges/streamlit_badge_black_white.svg" alt="Streamlit App" width="200" height="auto">
-</a>
+{{< demo-image 
+  src="https://static.streamlit.io/badges/streamlit_badge_black_white.svg"
+  alt="Streamlit App"
+  width="200"
+  link="https://concrete-beam-calculator.streamlit.app/"
+>}}
 
 
 ## Features 🚀
@@ -24,11 +27,11 @@ Many years ago, during my early coding adventures, I developed a concrete beam c
 
 ## Test the app
 
-{{< iframe src="https://concrete-beam-calculator.streamlit.app?embed=true&embed_options=show_footer" width="100%" height="480" >}}
+{{< iframe src="https://concrete-beam-calculator.streamlit.app?embed=true&embed_options=show_footer" width="100%" height="800" >}}
 
 ## Demo video
 
-{{< iframe src="https://github.com/user-attachments/assets/19bc97a0-0c20-4ac2-aec8-7d517a7ae91e" width="100%" height="480" >}}
+{{< iframe src="https://github.com/user-attachments/assets/19bc97a0-0c20-4ac2-aec8-7d517a7ae91e" width="100%" height="800" >}}
 
 
 

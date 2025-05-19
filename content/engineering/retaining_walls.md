@@ -1,7 +1,7 @@
 +++
 title = "Retaining Walls Designer"
-[menus.main]
-  parent = "products"
+featured_image = "/images/album_retain_walls/demo.png"
+tags = ["structural-engineering", "design-tools", "retaining-walls", "python", "streamlit"]
 +++
 
 ## Welcome! 👋
@@ -9,9 +9,12 @@ title = "Retaining Walls Designer"
 
 During my early days in structural engineering, I developed a Cantilever Concrete Retaining Wall Designer to assist with the design and analysis of retaining walls using Python. Today, I'm excited to present its modern version as a web application, powered by Streamlit.
 
-<a href="https://retaining-wall.streamlit.app/" target="_blank">
-  <img src="https://static.streamlit.io/badges/streamlit_badge_black_white.svg" alt="Streamlit App" width="200" height="auto">
-</a>
+{{< demo-image 
+  src="https://static.streamlit.io/badges/streamlit_badge_black_white.svg"
+  alt="Streamlit App"
+  width="200"
+  link="https://retaining-wall.streamlit.app/"
+>}}
 
 **Software developed to streamline the design and detailing process of retaining walls. The program allows:**
 

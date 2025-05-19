@@ -1,7 +1,8 @@
 +++
 title = "Scheduler Student Services"
-[menus.main]
-  parent = "contributions"
+featured_image = "/images/scheduler_demo_image.gif"
+description = "A Streamlit app for managing student volunteers at Collège LaSalle Montréal, helping organize welcome teams for new students."
+tags = ["education", "student-services", "streamlit", "python", "scheduling", "community"]
 +++
 
 ## Hey there! 👋
@@ -10,13 +11,11 @@ Welcome to the **Welcome Team Scheduler** — a **Streamlit** app designed to he
 
 ---
 
-
 ## 🖼️ Image Demo
-<div class="card" style="border: 2px solid #ccc; border-radius: 8px; padding: 10px;">
-   <div class="card-image">
-      {{< figure src="/images/scheduler_demo_image.gif" alt="Scheduler Student Services Demo" caption="A sneak peek into the Scheduler Student Services app interface." >}}
-   </div>
-</div>
+{{< demo-image 
+  src="/images/scheduler_demo_image.gif"
+  alt="Scheduler Student Services Demo"
+>}}
 
 ---
 
@@ -32,7 +31,7 @@ Starting a new semester can be overwhelming for newcomers. This app makes it eas
   Students can register quickly through a user-friendly form.
 
 - 🗓️ **Availability Selection**  
-  Volunteers can choose the days and time blocks they’re available to help.
+  Volunteers can choose the days and time blocks they're available to help.
 
 - 📊 **Admin Dashboard**  
   Admins can view, filter, and export volunteer data and schedules.
@@ -70,7 +69,7 @@ pip install -r requirements.txt
 streamlit run streamlit_app.py
 ```
 
-> ℹ️ Make sure you’re in the project folder when running the app!
+> ℹ️ Make sure you're in the project folder when running the app!
 
 ---
 

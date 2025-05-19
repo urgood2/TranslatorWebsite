@@ -75,22 +75,27 @@ sectionPagesMenu = 'main'
   weight = 5
 
 [[menu.main]]
-name = "Structural Engineering"
-identifier = "products"
-url = "#"
-weight = 50
-
-[[menu.main]]
-name = "Contributions"
-identifier = "contributions"
-url = "#"
-weight = 51
+name = "Blog"
+url = "/blog/"
+weight = 60
 
 [taxonomies]
   tag = "tags"
 
 [markup.goldmark.renderer]
 unsafe = true
+
+[menu]
+  [[menu.main]]
+    name = "Structural Engineering"
+    url = "/engineering/"
+    weight = 50
+    pre = "engineering"
+  [[menu.main]]
+    name = "Contributions"
+    url = "/contributions/"
+    weight = 51
+    pre = "contributions"
 
 
 

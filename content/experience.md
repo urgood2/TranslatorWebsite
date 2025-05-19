@@ -1,7 +1,19 @@
 ---
 title: "Experience"
+type: "homepage"
+intro: >-
+  With over 14 years of experience in structural engineering and software development, I've worked on diverse projects ranging from physical structures to digital solutions.
+quickfacts:
+  - icon: "building"
+    title: "Fireraven"
+    value: "**AI Intern**<br>Developing Low-code Security and Compliance SaaS platform for LLM Assistants and Agents"
+  - icon: "building"
+    title: "ObraLink"
+    value: "**Lead Developer**<br>Led development of autonomous structural analysis tools and ML models for concrete estimation"
+  - icon: "building"
+    title: "Previous Roles"
+    value: "**Structural Engineer**<br>Worked on various construction and engineering projects"
 
-intro: "Professional Journey"
 resume_url: "#"
 resume_label: "Download Full Resume"
 

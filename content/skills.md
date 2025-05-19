@@ -1,7 +1,21 @@
 ---
 title: "Skills"
-url: "/skills"
-intro: "Skills & Expertise"
+type: "homepage"
+intro: >-
+  Combining structural engineering expertise with modern software development skills to create innovative solutions.
+quickfacts:
+  - icon: "code"
+    title: "Programming"
+    value: "**Python**, **JavaScript**, **C++**, **SQL**"
+  - icon: "brain"
+    title: "AI/ML"
+    value: "**PyTorch**, **TensorFlow**, **Scikit-learn**, **NLP**"
+  - icon: "tools"
+    title: "Engineering"
+    value: "**Structural Analysis**, **CAD**, **BIM**, **FEA**"
+  - icon: "cloud"
+    title: "Cloud/DevOps"
+    value: "**AWS**, **Docker**, **Git**, **CI/CD**"
 
 domains:
   - icon: "brain"
