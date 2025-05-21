@@ -2,7 +2,7 @@
 title: "Technical Skills"
 type: "homepage"
 intro: >-
-  Comprehensive technical toolkit combining modern software development, AI/ML, and engineering technologies.
+  Technical expertise spanning software development, AI/ML, and engineering technologies.
 
 technical_groups:
   - title: "Programming Languages"
