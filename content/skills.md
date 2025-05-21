@@ -2,59 +2,38 @@
 title: "Skills"
 type: "homepage"
 intro: >-
-  Combining structural engineering expertise with modern software development skills to create innovative solutions.
-quickfacts:
-  - icon: "code"
-    title: "Programming"
-    value: "**Python**, **JavaScript**, **C++**, **SQL**"
-  - icon: "brain"
-    title: "AI/ML"
-    value: "**PyTorch**, **TensorFlow**, **Scikit-learn**, **NLP**"
-  - icon: "tools"
-    title: "Engineering"
-    value: "**Structural Analysis**, **CAD**, **BIM**, **FEA**"
-  - icon: "cloud"
-    title: "Cloud/DevOps"
-    value: "**AWS**, **Docker**, **Git**, **CI/CD**"
+  Combining 14+ years of structural engineering expertise with modern software development and AI/ML capabilities.
 
 domains:
-  - icon: "brain"
-    title: "Artificial Intelligence"
-    description: "Developing ML models for construction applications, specializing in predictive analytics."
-
   - icon: "code"
     title: "Software Development"
-    description: "Building scalable engineering software solutions with Python and modern frameworks to streamline AEC workflows."
+    description: "Building scalable engineering software solutions with Python and modern frameworks, focusing on real-time structural analysis and automation."
 
-  - icon: "project-diagram"
-    title: "Project Management"
-    description: "Leading cross-functional teams to deliver complex engineering and software projects on time and within budget."
+  - icon: "brain"
+    title: "Artificial Intelligence"
+    description: "Developing LLM-based solutions and ML models for construction applications, specializing in compliance tools and predictive analytics."
 
   - icon: "chart-line"
     title: "Data Science"
-    description: "Transforming construction data into actionable insights through statistical analysis and visualization techniques."
+    description: "Transforming construction data into actionable insights through statistical analysis, visualization, and machine learning techniques."
+
+  - icon: "tools"
+    title: "Engineering Expertise"
+    description: "Combining structural engineering knowledge with modern technology to create innovative solutions for the AEC industry."
+
+  - icon: "users"
+    title: "Leadership & Project Management"
+    description: "Leading cross-functional teams in R&D and software development, managing high-rise projects, and coordinating initiatives across multiple disciplines. Recipient of the Academic Excellence Scholarship at Collège LaSalle Montréal."
 
   - icon: "lightbulb"
-    title: "Business Strategy"
-    description: "Developing innovation strategies and helping on securing investments for tech-driven construction solutions."
+    title: "Business & Strategy"
+    description: "Developing innovation strategies and preparing comprehensive documentation for tech-driven construction solutions, including detailed project reports and investment proposals."
 
+  - icon: "globe"
+    title: "International Experience"
+    description: "Currently expanding professional horizons through an AI internship in Canada. Native Spanish speaker with full professional English proficiency and intermediate French, enabling effective communication in diverse international settings."
 
-technical_title: "Technical Skills"
-technical:
-  - Python
-  - Docker
-  - PyTorch
-  - TensorFlow
-  - JavaScript
-  - HTML/CSS
-  - Streamlit
-  - Plotly Dash
-  - BIM
-  - AutoCAD
-  - Revit
-  - OpenSees
-  - SAP2000
-  - ETABS
-  - SQL
-  - Git
+  - icon: "hands-helping"
+    title: "Community & Learning"
+    description: "Active involvement in volunteer work, including structural assessment for disaster relief. Currently pursuing AI/ML education while maintaining active engagement in professional development and academic excellence."
 ---

@@ -2,7 +2,7 @@
 title: "Experience"
 type: "homepage"
 intro: >-
-  With over 14 years of experience in structural engineering and software development, I've worked on diverse projects ranging from physical structures to digital solutions.
+  From structural engineering to AI development, building practical tools that bridge traditional engineering with modern technology.
 quickfacts:
   - icon: "building"
     title: "Fireraven"

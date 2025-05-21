@@ -79,6 +79,11 @@ name = "Blog"
 url = "/blog/"
 weight = 60
 
+[[menu.main]]
+  name = "Technical Skills"
+  url = "/#technical"
+  weight = 4.5
+
 [taxonomies]
   tag = "tags"
 
