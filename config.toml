@@ -3,6 +3,10 @@ languageCode = "en-us"
 title = "Felipe Cordero"
 theme = "careercanvas"
 
+[module]
+  [[module.imports]]
+    path = "github.com/felipecordero/careercanvas"
+
 [build]
   writeStats = true
 
