@@ -9,15 +9,14 @@ tags: ["academic", "ai", "machine-learning", "education", "personal-journey"]
 
 Receiving recognition for academic excellence from Air Canada during my graduation from the Artificial Intelligence and Machine Learning program at Collège LaSalle, Montréal has been an unforgettable and deeply emotional moment. This achievement represents not just academic success, but a testament to faith, family support, and perseverance.
 
-<img src="/images/beca_lasalle/scholarship_letter.jpg" alt="Recognition Letter" width="400"/>
-*The recognition letter from Air Canada - A testament to hard work and dedication*
+{{< figure src="/images/beca_lasalle/scholarship_letter.jpg" alt="Recognition Letter" width="400" caption="The recognition letter from Air Canada - A testament to hard work and dedication" >}}
+
 
 ## The Journey
 
 The path to this recognition has been anything but easy. After years in the professional world, returning to formal education presented its own set of challenges. However, the decision to leave Chile nearly two years ago—leaving behind our families, friends, and everything familiar to start a new chapter in Canada—added another layer of complexity to this journey.
 
-<img src="/images/beca_lasalle/scholarship_speaking.jpg" alt="Speaking at the Ceremony" width="400"/>
-*Speaking at the graduation ceremony at Collège LaSalle, Montréal*
+{{< figure src="/images/beca_lasalle/scholarship_speaking.jpg" alt="Speaking at the Ceremony" width="400" caption="Speaking at the graduation ceremony at Collège LaSalle, Montréal" >}}
 
 ## The Support System
 
@@ -29,8 +28,7 @@ This recognition is not mine alone. It belongs to:
 - My classmates, whose dedication and hard work inspired me daily
 - Special thanks to Emile Dufour, Lyne Tremblay, and Elisa Schaeffer
 
-<img src="/images/beca_lasalle/scholarship_family.png" alt="With Family" width="400"/>
-*Celebrating this achievement with my family - Their support made this possible*
+{{< figure src="/images/beca_lasalle/scholarship_family.png" alt="With Family" width="400" caption="Celebrating this achievement with my family - Their support made this possible" >}}
 
 ## The Role of Faith
 
@@ -46,8 +44,7 @@ As I move forward into my internship at Fireraven, I do so with:
 - The confidence that comes from overcoming challenges
 - The knowledge that the best is yet to come
 
-<img src="/images/beca_lasalle/scholarship_with_college.jpg" alt="With Faculty" width="400"/>
-*With the amazing faculty at Collège LaSalle - Their guidance was invaluable*
+{{< figure src="/images/beca_lasalle/scholarship_with_college.jpg" alt="With Faculty" width="400" caption="With the amazing faculty at Collège LaSalle - Their guidance was invaluable" >}}
 
 ## Lessons Learned
 
