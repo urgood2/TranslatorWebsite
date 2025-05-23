@@ -24,6 +24,8 @@ technical_groups:
         name: "TensorFlow"
       - icon: "microchip"
         name: "Scikit-learn"
+      - icon: "eye"
+        name: "OpenCV"
 
   - title: "Data Science"
     skills:
@@ -61,6 +63,8 @@ technical_groups:
         name: "BIM"
       - icon: "draw-polygon"
         name: "CAD"
+      - icon: "map"
+        name: "QGIS"
 
   - title: "Development Tools"
     skills:
