@@ -33,6 +33,8 @@ technical_groups:
         name: "NumPy"
       - icon: "table-cells"
         name: "Pandas"
+      - icon: "map"
+        name: "GeoPandas"
       - icon: "chart-line"
         name: "Plotly"
       - icon: "chart-bar"
@@ -84,4 +86,6 @@ technical_groups:
         name: "Docker"
       - icon: "fire"
         name: "Firebase"
+      - icon: "cloud"
+        name: "GCP"
 --- 
