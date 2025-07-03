@@ -25,7 +25,7 @@ Before you begin, ensure you have the following installed:
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/felipecordero/felipecordero.github.io.git
+git clone --recurse-submodules https://github.com/felipecordero/felipecordero.github.io.git
 cd felipecordero.github.io
 ```
 
