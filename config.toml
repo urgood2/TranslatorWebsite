@@ -39,6 +39,8 @@ resume_url_en = "/files/Felipe_Cordero_CV_English_version.pdf"
 resume_url_fr = "/files/Felipe_Cordero_CV_French_version.pdf"
 resume_label = "View CV"
 
+formspree_endpoint = "https://formspree.io/f/xgvkkdnn" # Change to your Formspree endpoint
+
 [[params.social]]
 icon = "linkedin-in"
 url = "https://www.linkedin.com/in/felipe-cordero-osorio/"
