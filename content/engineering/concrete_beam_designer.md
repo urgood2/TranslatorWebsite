@@ -25,16 +25,13 @@ Many years ago, during my early coding adventures, I developed a concrete beam c
 - **Section Properties**: Define the dimensions.
 - **Visualization**: Explore the results visually.
 
-## Test the app
-
-{{< iframe src="https://concrete-beam-calculator.streamlit.app?embed=true&embed_options=show_footer" width="100%" height="800" >}}
 
 ## Demo video
 
-{{< iframe src="https://github.com/user-attachments/assets/19bc97a0-0c20-4ac2-aec8-7d517a7ae91e" width="100%" height="800" >}}
+{{< iframe id="demo-video" src="https://github.com/user-attachments/assets/19bc97a0-0c20-4ac2-aec8-7d517a7ae91e" width="100%" height="800" >}}
+## Test the app
 
-
-
+{{< iframe id="test-app" src="https://concrete-beam-calculator.streamlit.app?embed=true&embed_options=show_footer" width="100%" height="800" >}}
 
 ## Getting Started 🛠️
 
