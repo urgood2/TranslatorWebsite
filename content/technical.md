@@ -18,14 +18,14 @@ technical_groups:
     skills:
       - icon: "html5"
         name: "HTML"
-      - icon: "palette"
+      - icon: "css3-alt"
         name: "CSS"
 
   - title: "Query Languages"
     skills:
       - icon: "database"
         name: "SQL"
-      - icon: "database"
+      - icon: "server"
         name: "NoSQL"
 
   - title: "Web & UI"
