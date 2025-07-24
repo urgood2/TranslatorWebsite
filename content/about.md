@@ -33,5 +33,5 @@ quickfacts:
     value: "🇬🇧 **English** (Full Professional), 🇪🇸 **Spanish** (Native), 🇫🇷 **French** (Intermediate)"
   - icon: "heart"
     title: "Interests"
-    value: "🎾 **Tennis**, 👨‍🍳 **Cooking**, 🥁 **Drumming**, 📸 **Photography**, 🏊‍♂️ **Swimming**, ✈️ **Traveling**, 📚 **Reading**"
+    value: "♟️ **Chess**, 🎾 **Tennis**, 🚴 **Cycling**, 🏊‍♂️ **Swimming**<br>👨‍🍳 **Cooking**, 🥁 **Drumming**, 📸 **Photography**<br>✈️ **Traveling**, 📚 **Reading**"
 ---
