@@ -3,13 +3,13 @@ title: "Introducing CareerCanvas: A Modern Hugo Theme for Technical Portfolios"
 date: 2025-05-18
 draft: false
 description: "A comprehensive guide to CareerCanvas, a modern Hugo theme designed for technical professionals. Learn about its features, installation, and how it can help showcase your professional portfolio."
-featured_image: "/images/blog/career canvas demo.png"
+featured_image: "/images/blog/career_canvas_demo.png"
 tags: ["hugo", "theme", "portfolio", "web-development"]
 ---
 
 I'm excited to announce the release of CareerCanvas, a modern and responsive Hugo theme designed specifically for technical professionals and engineers. This theme aims to provide a clean, elegant way to showcase your professional experience, skills, and projects.
 
-![CareerCanvas Theme Preview](/images/personal_web_demo.png)
+![CareerCanvas Theme Preview](/images/blog/career_canvas_demo.png)
 *CareerCanvas in action - A clean, modern interface for technical portfolios*
 
 ## Key Features
@@ -38,8 +38,7 @@ The theme is built with modern web technologies:
 - Responsive design principles
 - Optimized for performance
 
-![Theme Structure](/images/theme_structure.png)
-*Clean and organized theme structure for easy customization*
+
 
 ## Getting Started
 
@@ -65,8 +64,7 @@ The theme is highly customizable through the `config.toml` file. You can configu
 - Menu structure
 - Theme colors and styling
 
-![Configuration Example](/images/config_example.png)
-*Example configuration showing the theme's flexibility*
+
 
 ## Development
 
@@ -92,8 +90,7 @@ I created CareerCanvas because I wanted a theme that would:
 4. Look professional while being easy to customize
 5. Support multiple languages for international professionals
 
-![Skills Showcase](/images/skills_showcase.png)
-*Interactive skills section with modern card design*
+
 
 ## Future Plans
 
