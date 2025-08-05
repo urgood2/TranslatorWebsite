@@ -6,15 +6,19 @@ intro: >-
 
 technical_groups:
   - title: "Programming Languages"
+    icon: "code"
+    color_scheme: "blue"
     skills:
       - icon: "python"
         name: "Python"
       - icon: "js"
         name: "JavaScript"
-      - icon: "typescript"
+      - icon: "code"
         name: "TypeScript"
 
   - title: "Web Fundamentals"
+    icon: "globe"
+    color_scheme: "blue"
     skills:
       - icon: "html5"
         name: "HTML"
@@ -22,6 +26,8 @@ technical_groups:
         name: "CSS"
 
   - title: "Query Languages"
+    icon: "database"
+    color_scheme: "green"
     skills:
       - icon: "database"
         name: "SQL"
@@ -29,6 +35,8 @@ technical_groups:
         name: "NoSQL"
 
   - title: "Web & UI"
+    icon: "palette"
+    color_scheme: "purple"
     skills:
       - icon: "bolt"
         name: "FastAPI"
@@ -48,6 +56,8 @@ technical_groups:
         name: "ReportLab"
 
   - title: "Data Science"
+    icon: "chart-line"
+    color_scheme: "orange"
     skills:
       - icon: "square-root-alt"
         name: "NumPy"
@@ -61,6 +71,8 @@ technical_groups:
         name: "Matplotlib"
 
   - title: "AI/ML Frameworks"
+    icon: "brain"
+    color_scheme: "purple"
     skills:
       - icon: "network-wired"
         name: "PyTorch"
@@ -72,6 +84,8 @@ technical_groups:
         name: "OpenCV"
 
   - title: "Development Tools"
+    icon: "tools"
+    color_scheme: "green"
     skills:
       - icon: "code-branch"
         name: "Git"
@@ -101,6 +115,8 @@ technical_groups:
         name: "GCP"
 
   - title: "Engineering Software"
+    icon: "building"
+    color_scheme: "red"
     skills:
       - icon: "building"
         name: "OpenSees"
@@ -108,6 +124,8 @@ technical_groups:
         name: "SAP2000"
       - icon: "building"
         name: "ETABS"
+      - icon: "building"
+        name: "SAFE"
       - icon: "draw-polygon"
         name: "BIM"
       - icon: "draw-polygon"

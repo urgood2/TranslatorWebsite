@@ -41,6 +41,11 @@ resume_label = "View CV"
 
 formspree_endpoint = "https://formspree.io/f/xgvkkdnn" # Change to your Formspree endpoint
 
+# Technical skills configuration
+[params.technical_skills]
+# FontAwesome brand icons (for special icons like Python, JS, etc.)
+brand_icons = ["python", "js", "html5", "css3-alt", "linux", "docker", "github", "gitlab"]
+
 [[params.social]]
 icon = "linkedin-in"
 url = "https://www.linkedin.com/in/felipe-cordero-osorio/"

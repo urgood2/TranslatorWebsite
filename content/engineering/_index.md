@@ -1,19 +1,24 @@
 +++
 title = "Structural Engineering"
-description = "Explore our structural engineering tools and solutions for modern construction challenges."
+description = "Explore my structural engineering tools and solutions for modern construction challenges."
 type = "list"
 # menu = "main"
 weight = 50
 +++
 
-Welcome to our Structural Engineering section. Here you'll find a collection of tools and solutions designed to help engineers tackle complex structural challenges.
+## Structural Engineering Tools & Solutions
 
-## The tools I've developed
+Here you'll find a collection of tools and solutions I've developed to tackle complex structural challenges in today's construction industry.
 
-<!-- - Structural Design Solutions
-- Concrete Design Tools
-- Retaining Wall Analysis
-- ETABS Post-processing
-- Custom Engineering Software -->
+### What You'll Find Here
 
-Browse through the tools below or use the tags to find specific solutions. 
+- **Automated Design Tools**: Streamlined calculators for common structural problems
+- **Real-Time Monitoring Solutions**: Systems that provide live structural insights during construction
+- **BIM Integration Tools**: Software that bridges the gap between design and construction
+- **Interactive Visualizations**: Web-based tools for better understanding of structural behavior
+
+Each tool represents my commitment to making complex engineering concepts more accessible and practical for real-world applications.
+
+---
+
+*Browse through the tools below or use the tags to find specific solutions that match your needs.* 
