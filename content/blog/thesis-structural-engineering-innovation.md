@@ -48,6 +48,31 @@ The research employed sophisticated computational techniques to accurately simul
 - **Material Characterization**: Advanced constitutive models for both concrete and steel
 - **Validation**: Rigorous comparison with experimental data from existing literature
 
+## Technical Tools and Software Stack
+
+This research project required a comprehensive set of computational tools and software to handle the complex numerical analyses and data processing:
+
+### Primary Analysis Software
+- **OpenSees**: The core analysis platform for nonlinear structural analysis and fiber modeling
+- **MATLAB**: Used for data processing, post-processing of results, and creating custom analysis scripts
+- **Python**: Employed for automation of analysis workflows, data visualization, and batch processing of multiple analyses
+
+### Documentation and Presentation
+- **LaTeX**: Complete thesis document preparation with professional mathematical notation and formatting
+- **Python (Matplotlib/Plotly)**: Advanced plotting and visualization of structural response data
+- **MATLAB**: Additional plotting capabilities for time-history analysis results
+
+### Computational Workflow
+The research involved a sophisticated computational pipeline:
+
+1. **Model Development**: OpenSees for structural modeling and fiber element implementation
+2. **Data Processing**: MATLAB and Python for processing raw analysis results
+3. **Visualization**: Python and MATLAB for creating publication-quality figures
+4. **Documentation**: LaTeX for professional thesis formatting and mathematical equations
+5. **Automation**: Python scripts for batch processing multiple analysis cases
+
+This multi-tool approach allowed for efficient handling of the complex parametric studies and ensured robust, reproducible results across hundreds of analysis cases.
+
 ### Material Models
 **Steel Modeling:**
 - **Steel02 Model**: For general steel behavior with yield strength, elastic modulus, and strain hardening

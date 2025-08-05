@@ -132,4 +132,6 @@ technical_groups:
         name: "CAD"
       - icon: "map"
         name: "QGIS"
+      - icon: "calculator"
+        name: "MATLAB"
 --- 
