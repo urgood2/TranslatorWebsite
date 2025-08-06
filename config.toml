@@ -57,11 +57,6 @@ url = "https://github.com/felipecordero"
 sectionPagesMenu = 'main'
 
 [[menu.main]]
-  name = "Experience"
-  url = "/#experience"
-  weight = 4
-
-[[menu.main]]
   name = "About"
   url = "/#about"
   weight = 2
