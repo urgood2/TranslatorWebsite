@@ -11,7 +11,7 @@ name = "Felipe Cordero"
 tagline = "Engineer. Coder. Problem Solver."
 location = "Montréal, Canada"
 email = "mail@felipecordero.com"
-profile_image = "/images/felipe-cordero-linkedin.png"
+profile_image = "/images/felipe-cordero-profile.jpg"
 description = "Structural engineer and software developer expanding into AI/ML to solve complex engineering and automation challenges."
 author = "Felipe Cordero"
 
@@ -113,6 +113,45 @@ weight = 60
     url = "/contributions/"
     weight = 51
     pre = "contributions"
+
+# Corporate Branding Configuration - Tech Construction
+[params.colors]
+  main_color   = "#FF1E1E"  # Bright Red, high impact and dynamic
+  second_color = "#1C1F26"  # Graphite Black, strength and reliability
+  third_color  = "#F2F6FA"  # Cloud White, modern and clean
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
