@@ -114,11 +114,18 @@ weight = 60
     weight = 51
     pre = "contributions"
 
-# Professional Branding Configuration - Pastel Serenity
+# Professional Branding Configuration - Tech Azure
 [params.colors]
-  main_color   = "#457B9D"  # Muted Blue, strong enough for text and UI
-  second_color = "#A8DADC"  # Aqua Pastel, calm and balanced
-  third_color  = "#F1FAEE"  # Soft White, clean and light
+  main_color   = "#0A66C2"  # LinkedIn Blue, trustworthy and modern
+  second_color = "#0D0D1A"  # Midnight Black-Blue, ultra deep tone
+  third_color  = "#7FB3E4"  # Sky Blue, lighter accent
+
+
+
+
+
+
+
 
 
 
