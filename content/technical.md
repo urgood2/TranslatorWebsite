@@ -1,5 +1,5 @@
 ---
-title: "Technical Skills"
+title: "Technical Stack"
 type: "homepage"
 intro: >-
   Technical expertise spanning software development, AI/ML, and engineering technologies.

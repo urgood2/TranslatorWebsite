@@ -82,7 +82,7 @@ url = "/blog/"
 weight = 60
 
 [[menu.main]]
-  name = "Technical Skills"
+  name = "Technical Stack"
   url = "/#technical"
   weight = 4.5
 
