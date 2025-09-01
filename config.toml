@@ -114,11 +114,19 @@ weight = 60
     weight = 51
     pre = "contributions"
 
-# Corporate Branding Configuration - Tech Construction
+# Professional Branding Configuration - Pastel Serenity
 [params.colors]
-  main_color   = "#FF1E1E"  # Bright Red, high impact and dynamic
-  second_color = "#1C1F26"  # Graphite Black, strength and reliability
-  third_color  = "#F2F6FA"  # Cloud White, modern and clean
+  main_color   = "#457B9D"  # Muted Blue, strong enough for text and UI
+  second_color = "#A8DADC"  # Aqua Pastel, calm and balanced
+  third_color  = "#F1FAEE"  # Soft White, clean and light
+
+
+
+
+
+
+
+
 
 
 
