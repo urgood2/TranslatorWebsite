@@ -117,11 +117,8 @@ weight = 60
 # Professional Branding Configuration - Tech Azure
 [params.colors]
   main_color   = "#0A66C2"  # LinkedIn Blue, trustworthy and modern
-  second_color = "#0D0D1A"  # Midnight Black-Blue, ultra deep tone
-  third_color  = "#7FB3E4"  # Sky Blue, lighter accent
-
-
-
+  second_color = "#7FB3E4"  # Sky Blue, softer accent
+  third_color  = "#F4F6F8"  # Cloud White, clean and minimal
 
 
 
