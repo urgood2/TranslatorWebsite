@@ -114,11 +114,37 @@ weight = 60
     weight = 51
     pre = "contributions"
 
-# Professional Branding Configuration - Tech Azure
+# Branding Configuration - Savannah King
 [params.colors]
-  main_color   = "#0A66C2"  # LinkedIn Blue, trustworthy and modern
-  second_color = "#7FB3E4"  # Sky Blue, softer accent
-  third_color  = "#F4F6F8"  # Cloud White, clean and minimal
+  main_color   = "#A97142"  # Lion Brown, warm and dominant
+  second_color = "#2E2E2E"  # Dark Charcoal, authority
+  third_color  = "#E6B325"  # Golden Mane, majesty and power
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
