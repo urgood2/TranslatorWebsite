@@ -30,8 +30,20 @@ quickfacts:
     value: "🏆 Recipient of the <a href=\"/blog/academic-excellence-recognition/\" target=\"_blank\" rel=\"noopener\">Academic Excellence Scholarship</a> 🎓 sponsored by ✈️ Air Canada at Collège LaSalle Montréal (2025) 🎉"
   - icon: "language"
     title: "Languages"
-    value: "🇬🇧 **English** (Full Professional), 🇪🇸 **Spanish** (Native), 🇫🇷 **French** (Intermediate)"
+    value: |
+      - 🇬🇧 English (Full Professional)
+      - 🇪🇸 Spanish (Native)
+      - 🇫🇷 French (Intermediate)
   - icon: "heart"
     title: "Interests"
-    value: "♟️ **Chess**, 🎾 **Tennis**, 🚴 **Cycling**, 🏊‍♂️ **Swimming**<br>👨‍🍳 **Cooking**, 🥁 **Drumming**, 📸 **Photography**<br>✈️ **Traveling**, 📚 **Reading**"
+    value: |
+      - ♟️ Chess
+      - 🎾 Tennis
+      - 🚴 Cycling
+      - 🏊‍♂️ Swimming
+      - 👨‍🍳 Cooking
+      - 🥁 Drumming
+      - 📸 Photography
+      - ✈️ Traveling
+      - 📚 Reading
 ---
