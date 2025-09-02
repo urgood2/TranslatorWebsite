@@ -3,25 +3,25 @@ title: "About"
 type: "homepage"
 featured_image: "/images/JS_profile_image.jpg"
 intro: >-
-  Hi! I'm Felipe Cordero, a **structural engineer** 🏗️ and **software developer** 💻 with **14+ years** in AEC, now expanding my expertise into **AI/ML** 🤖. My journey has taken me from **Chile to Montréal**, where I combine traditional engineering with modern technology to solve complex problems in engineering and automation. Recently, I was honored with the **Academic Excellence Scholarship** (Air Canada, Collège LaSalle Montréal, 2025) 🏆 for my achievements in AI/ML studies.
+  Hi, I'm Josh (aka Gom, JS), a **Korean-English linguist** 🇰🇷 and **fiction lover** 📗 with **5+ years** of experience, now also expanding my expertise into **webcomics/game translation** 👾. I combine linguistic skills, a deep understanding of Korean/pop culture, and my love of all types of fiction to localize Korean content for English audiences. 
 
 study: >-
-  Currently based in **Montréal** 🇨🇦, I'm deepening my skills in **Artificial Intelligence and Machine Learning** 🤖 at **Collège LaSalle**. I work with **Python** 🐍, **PyTorch**, and **predictive modeling** 📊 to build intelligent systems that bridge the gap between engineering and data science.
+  Currently based in **South Korea** 🇰🇷, I focus on honing my **KR-EN translation** skills while reading widely in **English fiction**. I work with **computer-assisted tools** (CAT tools) such as **Trados Studio** and **Phrase** to ensure consistency and quality in my translations.
 
 passion_title: "What I'm passionate about"
 passion_text: >-
-  I'm passionate about learning and applying **AI to real-world engineering challenges** 🔬. At <a href="https://fireraven.ai" target="_blank" rel="noopener noreferrer"><strong>Fireraven</strong></a>, I help develop a **Low-code Security and Compliance SaaS platform** for **LLM Assistants and Agents** 🛡️. Previously at <a href="https://obralink.com" target="_blank" rel="noopener noreferrer"><strong>ObraLink</strong></a>, I led the development of **autonomous structural analysis tools** and **ML models** for concrete estimation 🏢. My goal is to create **innovative solutions** that have a real impact on the built environment.
+  I am passionate about **bringing Korean stories to life** in English. Working with agencies and localization teams, I develop detailed **glossaries** 📓, **collaborate closely with editors** 📝, and ensure translations are **accurate, fluent, and true to the author’s intent** ✍️ while providing an English reading experience is **seamless and engaging** 🌊. My goal is to deliver translations that read naturally in English while preserving each story’s **tone** 🌸 and **cultural roots** 🎭.
 
 mix: >-
-  With experience in both **structural engineering** 🏗️ and **software development** 💻, I bring a **unique perspective** to technical challenges. I've led teams in building everything from **physical structures to scalable software systems**, always focusing on **practical, efficient solutions** ⚡. My **international background** and commitment to **continuous learning** drive me to bridge disciplines and deliver value across industries.
+  With experience across genres including **Modern Romance** 💕, **Drama** 🎭, **Fantasy** 🐉, **Wuxia/Muhyeop** ⚔️, **Action Fantasy** ⚡, and **Boy’s Love** 🌸, I bring a **seasoned perspective** to localization challenges. I have collaborated with **Project Managers**, **Producers**, and **Editors** to ensure the best possible outcomes, adapting to feedback and **consistently raising the bar for quality**. My **international background** 🌏 and **full-time focus on KR–EN fiction translation** drive me to continually seek out new opportunities and hone my skills diligently.
 
 personal: >-
-  Outside work, I enjoy **tennis** 🎾, **cooking** 👨‍🍳, **drums** 🥁, **swimming** 🏊‍♂️, and **photography** 📸. I also **volunteer at LaSalle College**, helping new students settle in and supporting the academic community 🤝.
+  Outside work, I enjoy **lifting weights** 💪, **reading** 📚, and **developing games** 💻☕. I have a particular fondness for C++ and Lua <i class="fas fa-code"></i>.
 
 quickfacts:
   - icon: "briefcase"
     title: "Current Role"
-    value: "👨‍💻 Freelance translator for <a href=\"https://tapas.io/\" target=\"_blank\" rel=\"noopener\"><strong>Tapas</strong></a> and other clients"
+    value: "👨‍💻 Freelance translator for <a href=\"https://tapas.io/\" target=\"_blank\" rel=\"noopener\"><strong>Tapas</strong></a> and other agencies"
   - icon: "business-time"
     title: "Recent Projects"
     value: "🎉 Webnovels including <a href=\"https://tapas.io/series/debut-or-die-novel/info\" target=\"_blank\" rel=\"noopener\"><strong>Debut or Die</strong></a>, <a href=\"https://tapas.io/series/solo-leveling-ragnarok-novel/info\" target=\"_blank\" rel=\"noopener\"><strong>Solo Leveling: Ragnarok</strong></a>, <a href=\"https://tapas.io/series/the-housekeeper-of-the-dungeon-novel/info\" target=\"_blank\" rel=\"noopener\"><strong>Housekeeper of the Dungeon</strong></a>"
