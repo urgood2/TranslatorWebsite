@@ -103,12 +103,12 @@ weight = 60
     [server.headers.values]
       Content-Type = "text/css"
 
-[menu]
-  [[menu.main]]
-    name = "Side Projects"
-    url = "/contributions/"
-    weight = 51
-    pre = "contributions"
+# [menu]
+  # [[menu.main]]
+    # name = "Side Projects"
+    # url = "/contributions/"
+    # weight = 51
+    # pre = "contributions"
 
 # Branding Configuration - Savannah King
 [params.colors]

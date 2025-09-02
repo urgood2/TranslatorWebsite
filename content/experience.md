@@ -38,7 +38,7 @@ positions:
       - "Translated and localized articles for Korean-American audiences."
       - "Researched technical terminology to ensure precise usage."
 
-  - company: "Voidthru"
+  - company: "Various Translation Agencies"
     role: "Freelance Translator"
     period: "2020–2021"
     industry: "Media & Novel Translation"
