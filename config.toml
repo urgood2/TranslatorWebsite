@@ -1,31 +1,29 @@
-baseURL = "https://felipecordero.com"
+baseURL = "https://www.jsnoveltranslator.com"
 languageCode = "en-us"
-title = "Felipe Cordero"
+title = "Josh Shin"
 theme = "careercanvas"
 
 [build]
   writeStats = true
 
 [params]
-name = "Felipe Cordero"
-tagline = "Engineer. Coder. Problem Solver."
-location = "Montréal, Canada"
-email = "mail@felipecordero.com"
-profile_image = "/images/felipe-cordero-profile.jpg"
+name = "Josh Shin"
+tagline = "Translator. Fiction Enthusiast."
+location = "Yongin, South Korea"
+email = "urgood2@gmail.com"
+profile_image = "/images/JS_profile_image.jpg"
 description = "Structural engineer and software developer expanding into AI/ML to solve complex engineering and automation challenges."
-author = "Felipe Cordero"
+author = "Josh Shin"
 
 og_image = "images/felipecordero-og.png"
 
 hero_description = "Structural engineer and software developer with 14+ years in Architecture, Engineering, and Construction (AEC), expanding expertise with AI/ML to build intelligent solutions for complex engineering problems."
 hero_location = "Montréal, Canada"
 
-linkedin_url = "https://www.linkedin.com/in/felipe-cordero-osorio"
-linkedin_text = "linkedin.com/in/felipe-cordero-osorio"
-github_url = "https://github.com/felipecordero"
-github_text = "github.com/felipecordero"
+linkedin_url = "https://www.linkedin.com/in/joshua-shin-7a86b0124/"
+linkedin_text = "linkedin.com/in/joshua-shin-7a86b0124"
 
-copyright = "© 2025 | Felipe Cordero"
+copyright = "© 2025 | Josh Shin"
 
 collab_tags = [
   "AI/ML Solutions",
@@ -35,8 +33,7 @@ collab_tags = [
   "Construction Tech"
 ]
 
-resume_url_en = "/files/Felipe_Cordero_CV_English_version.pdf"
-resume_url_fr = "/files/Felipe_Cordero_CV_French_version.pdf"
+resume_url_en = "/files/KR_EN_Translator_CV_Joshua Shin.pdf"
 resume_label = "View CV"
 
 formspree_endpoint = "https://formspree.io/f/xgvkkdnn" # Change to your Formspree endpoint
@@ -48,11 +45,7 @@ brand_icons = ["python", "js", "html5", "css3-alt", "linux", "docker", "github",
 
 [[params.social]]
 icon = "linkedin-in"
-url = "https://www.linkedin.com/in/felipe-cordero-osorio/"
-
-[[params.social]]
-icon = "github"
-url = "https://github.com/felipecordero"
+url = "https://www.linkedin.com/in/joshua-shin-7a86b0124/"
 
 sectionPagesMenu = 'main'
 
@@ -82,7 +75,7 @@ url = "/blog/"
 weight = 60
 
 [[menu.main]]
-  name = "Technical Stack"
+  name = "Translation Toolkit"
   url = "/#technical"
   weight = 4.5
 
