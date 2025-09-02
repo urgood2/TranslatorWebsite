@@ -36,5 +36,5 @@ quickfacts:
       - 🎮 Gaming
       - 📚 Reading
       - 👨‍💻 Coding
-      - 🎮 Weights
+      - 💪 Weights
 ---

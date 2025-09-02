@@ -35,8 +35,8 @@ collab_tags = [
   "Long-form Projects"
 ]
 
-resume_url_en = "/files/KR_EN_Translator_CV_Joshua Shin.pdf"
-resume_label = "View CV"
+resume_url_en = "https://www.linkedin.com/in/joshua-shin-7a86b0124/"
+resume_label = "View CV on LinkedIn"
 
 formspree_endpoint = "https://formspree.io/f/xvgbbkna" # Change to your Formspree endpoint
 
@@ -75,6 +75,12 @@ sectionPagesMenu = 'main'
 name = "Blog"
 url = "/blog/"
 weight = 60
+
+
+[[menu.main]]
+  name = "Portfolio"
+  url = "/#portfolio"
+  weight = 4.5
 
 [[menu.main]]
   name = "Translation Toolkit"

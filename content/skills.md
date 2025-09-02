@@ -2,46 +2,29 @@
 title: "Skills"
 type: "homepage"
 intro: >-
-  Combining 14+ years of structural engineering expertise with modern software development and expanding into AI/ML capabilities.
-
+  Drawing on more than 5 years of KR–EN localization experience, I leverage modern CAT software to deliver fiction with precision and passion.
 domains:
-  - icon: "code"
-    title: "Software Development"
-    description: "Building scalable engineering software solutions with Python and modern frameworks, focusing on real-time analysis and automation."
-    devicon_class: "devicon-python-plain colored"
+  - icon: "fa-solid fa-spell-check"
+    title: "Quality Assurance"
+    description: "Verifying accuracy and readability using dedicated QA tools, catching typos, formatting errors, grammar issues, and subtle inconsistencies that impact the final product."
 
-  - icon: "brain"
-    title: "Artificial Intelligence"
-    description: "Expanding expertise in LLM-based solutions and ML models for engineering applications, specializing in compliance tools and predictive analytics."
-    devicon_class: "devicon-tensorflow-original colored"
+  - icon: "fa-solid fa-laptop-code"
+    title: "Software Expertise"
+    description: "Proficient with CAT tools such as Trados Studio and Phrase, applying technology-driven consistency and terminology management to large-scale projects."
 
-  - icon: "chart-line"
-    title: "Data Science"
-    description: "Transforming complex data into actionable insights through statistical analysis, visualization, and machine learning techniques."
-    devicon_class: "devicon-pandas-plain colored"
+  - icon: "fa-solid fa-tasks"
+    title: "Project Management & Initiative"
+    description: "Actively building and maintaining project glossaries, identifying source text errors, and raising clear, constructive queries to ensure quality and consistency."
 
-  - icon: "tools"
-    title: "Engineering Expertise"
-    description: "Applying structural engineering knowledge with modern technology to create innovative solutions for complex engineering challenges."
-    devicon_class: "devicon-docker-plain colored"
+  - icon: "fa-solid fa-calendar-check"
+    title: "Scheduling & Deadlines"
+    description: "Managing workloads efficiently with a full-time dedication to translation, reliably balancing multiple projects without missed deadlines."
 
-  - icon: "users"
-    title: "Leadership & Project Management"
-    description: "Leading cross-functional teams in R&D and software development, managing complex projects up to 20,000 m², and coordinating multidisciplinary initiatives."
-    devicon_class: "devicon-github-original colored"
-
-  - icon: "lightbulb"
-    title: "Business & Strategy"
-    description: "Developing innovation strategies and preparing comprehensive documentation for tech-driven solutions, including investment proposals exceeding $500K USD."
-    devicon_class: "devicon-react-original colored"
-
-  - icon: "globe"
+  - icon: "fa-solid fa-globe"
     title: "International Experience"
-    description: "Native Spanish speaker with full professional English proficiency and intermediate French, enabling effective communication in diverse international settings."
-    devicon_class: "devicon-html5-plain colored"
+    description: "Native Korean speaker with full spoken and written English proficiency and over five years living in the US, combining linguistic skill with deep cultural understanding."
 
-  - icon: "hands-helping"
-    title: "Community & Learning"
-    description: "Active in volunteer work and professional development, including structural assessment for disaster relief and student welcome programs. Recipient of Academic Excellence Scholarship at Collège LaSalle Montréal."
-    devicon_class: "devicon-javascript-plain colored"
+  - icon: "fa-solid fa-handshake"
+    title: "Collaboration"
+    description: "Detail-oriented and easy to work with, contributing to every stage of a localization project—from terminology discussions to sensitive cultural choices—with professionalism and care."
 ---
