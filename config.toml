@@ -12,13 +12,13 @@ tagline = "Translator. Fiction Enthusiast."
 location = "Yongin, South Korea"
 email = "urgood2@gmail.com"
 profile_image = "/images/JS_profile_image.jpg"
-description = "Structural engineer and software developer expanding into AI/ML to solve complex engineering and automation challenges."
+description = "Professional Korean–English translator with over 5 years’ experience in fiction and literary translation, specializing in web novels."
 author = "Josh Shin"
 
 og_image = "images/felipecordero-og.png"
 
-hero_description = "Structural engineer and software developer with 14+ years in Architecture, Engineering, and Construction (AEC), expanding expertise with AI/ML to build intelligent solutions for complex engineering problems."
-hero_location = "Montréal, Canada"
+hero_description = "Professional Korean–English translator with over 5 years’ experience in fiction and literary translation, specializing in web novels."
+hero_location = "Yongin, South Korea"
 
 linkedin_url = "https://www.linkedin.com/in/joshua-shin-7a86b0124/"
 linkedin_text = "linkedin.com/in/joshua-shin-7a86b0124"
@@ -26,17 +26,19 @@ linkedin_text = "linkedin.com/in/joshua-shin-7a86b0124"
 copyright = "© 2025 | Josh Shin"
 
 collab_tags = [
-  "AI/ML Solutions",
-  "Engineering Software",
-  "R&D & Innovation",
-  "Technical Leadership",
-  "Construction Tech"
+  "KR–EN Webnovels",
+  "Literary Localization",
+  "Korean–English Fiction",
+  "Boy's Love",
+  "Publisher Collaboration",
+  "Agency Partnerships",
+  "Long-form Projects"
 ]
 
 resume_url_en = "/files/KR_EN_Translator_CV_Joshua Shin.pdf"
 resume_label = "View CV"
 
-formspree_endpoint = "https://formspree.io/f/xgvkkdnn" # Change to your Formspree endpoint
+formspree_endpoint = "https://formspree.io/f/xvgbbkna" # Change to your Formspree endpoint
 
 # Technical skills configuration
 [params.technical_skills]
@@ -97,12 +99,7 @@ weight = 60
 
 [menu]
   [[menu.main]]
-    name = "Structural Engineering"
-    url = "/engineering/"
-    weight = 50
-    pre = "engineering"
-  [[menu.main]]
-    name = "Contributions"
+    name = "Side Projects"
     url = "/contributions/"
     weight = 51
     pre = "contributions"

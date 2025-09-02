@@ -1,7 +1,7 @@
 ---
 title: "About"
 type: "homepage"
-featured_image: "/images/felipe-cordero-profile.jpeg"
+featured_image: "/images/JS_profile_image.jpg"
 intro: >-
   Hi! I'm Felipe Cordero, a **structural engineer** 🏗️ and **software developer** 💻 with **14+ years** in AEC, now expanding my expertise into **AI/ML** 🤖. My journey has taken me from **Chile to Montréal**, where I combine traditional engineering with modern technology to solve complex problems in engineering and automation. Recently, I was honored with the **Academic Excellence Scholarship** (Air Canada, Collège LaSalle Montréal, 2025) 🏆 for my achievements in AI/ML studies.
 
@@ -21,29 +21,20 @@ personal: >-
 quickfacts:
   - icon: "briefcase"
     title: "Current Role"
-    value: "🤖 AI Intern at <a href=\"https://fireraven.ai\" target=\"_blank\" rel=\"noopener noreferrer\"><strong>Fireraven</strong></a>"
-  - icon: "graduation-cap"
-    title: "Education"
-    value: "🏗️ <a href=\"https://uchile.cl/\" target=\"_blank\" rel=\"noopener noreferrer\">University of Chile</a>, **Bachelor's Degree in Civil Engineering**<br>🤖 <a href=\"https://lasallecollege.lcieducation.com/en\" target=\"_blank\" rel=\"noopener noreferrer\">Collège LaSalle Montréal</a>, **AEC: Artificial Intelligence and Machine Learning**"
-  - icon: "award"
-    title: "Recent Achievement"
-    value: "🏆 Recipient of the <a href=\"/blog/academic-excellence-recognition/\" target=\"_blank\" rel=\"noopener\">Academic Excellence Scholarship</a> 🎓 sponsored by ✈️ Air Canada at Collège LaSalle Montréal (2025) 🎉"
+    value: "👨‍💻 Freelance translator for <a href=\"https://tapas.io/\" target=\"_blank\" rel=\"noopener\"><strong>Tapas</strong></a> and other clients"
+  - icon: "business-time"
+    title: "Recent Projects"
+    value: "🎉 Webnovels including <a href=\"https://tapas.io/series/debut-or-die-novel/info\" target=\"_blank\" rel=\"noopener\"><strong>Debut or Die</strong></a>, <a href=\"https://tapas.io/series/solo-leveling-ragnarok-novel/info\" target=\"_blank\" rel=\"noopener\"><strong>Solo Leveling: Ragnarok</strong></a>, <a href=\"https://tapas.io/series/the-housekeeper-of-the-dungeon-novel/info\" target=\"_blank\" rel=\"noopener\"><strong>Housekeeper of the Dungeon</strong></a>"
   - icon: "language"
     title: "Languages"
     value: |
       - 🇬🇧 English (Full Professional)
-      - 🇪🇸 Spanish (Native)
-      - 🇫🇷 French (Intermediate)
+      - 🇰🇷 Korean (Native)
   - icon: "heart"
     title: "Interests"
     value: |
-      - ♟️ Chess
-      - 🎾 Tennis
-      - 🚴 Cycling
-      - 🏊‍♂️ Swimming
-      - 👨‍🍳 Cooking
-      - 🥁 Drumming
-      - 📸 Photography
-      - ✈️ Traveling
+      - 🎮 Gaming
       - 📚 Reading
+      - 👨‍💻 Coding
+      - 🎮 Weights
 ---
