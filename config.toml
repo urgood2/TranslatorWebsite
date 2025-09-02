@@ -112,16 +112,57 @@ weight = 60
 
 # Branding Configuration - Savannah King
 [params.colors]
-  main_color   = "#A97142"  # Lion Brown, warm and dominant
-  second_color = "#2E2E2E"  # Dark Charcoal, authority
-  third_color  = "#E6B325"  # Golden Mane, majesty and power
+  # main_color   = "#A97142"  # Lion Brown, warm and dominant
+  # second_color = "#2E2E2E"  # Dark Charcoal, authority
+  # third_color  = "#E6B325"  # Golden Mane, majesty and power
+
+  # main_color   = "#2E86AB" # Deep Blue, trustworthy and professional
+  # second_color = "#1C1F26" # Graphite Black, strength and continuity
+  # third_color  = "#F8F9FB" # Soft White, clean background
+
+ #   main_color   = "#1C1F26" # Graphite Black, bold readable headings
+ # second_color = "#4A90E2" # Modern Blue, links and highlights
+ # third_color  = "#FAFAFA" # Paper White, clean and airy
+
+ #  main_color   = "#5A3E36" # Warm Brown, grounding and traditional
+ # second_color = "#E07A5F" # Terracotta, friendly and approachable
+ # third_color  = "#F4F1DE" # Cream White, soft and comfortable
 
 
+ # main_color   = "#222831" # Charcoal, sleek and modern
+ # second_color = "#00ADB5" # Cyan, energetic highlight
+ # third_color  = "#EEEEEE" # Light Gray, neutral background
 
 
+ # main_color   = "#2B2D42" # Dark Slate, strong anchor color
+ # second_color = "#8D99AE" # Soft Gray-Blue, subtle secondary
+ # third_color  = "#EDF2F4" # Cloud White, comfortable readability
 
 
+ main_color   = "#4A5568" # Deep Gray-Blue, grounding like twilight stone
+ second_color = "#9AE6B4" # Soft Mint Green, fresh and calming
+ third_color  = "#F7FAFC" # Mist White, airy and gentle
 
+ #  main_color   = "#6B4226" # Warm Chestnut, cozy and earthy
+ # second_color = "#F6AD55" # Amber Glow, warm firelight for accents
+ # third_color  = "#FFF8F0" # Cream White, soft and inviting
+
+ #  main_color   = "#2D3748" # Slate Night, modern and readable
+ # second_color = "#A3BFFA" # Misty Periwinkle, dreamy highlight
+ # third_color  = "#FDFDFE" # Pale Moon White, clean and ethereal
+
+ #  main_color   = "#3E2C41" # Plum Shadow, mysterious and cozy
+ # second_color = "#F6C1C1" # Soft Rose, gentle and warm
+ # third_color  = "#FCFAF9" # Ivory Veil, subtle and modern
+
+ #  main_color   = "#2F3E46" # Pine Gray, natural and steady
+ # second_color = "#84A98C" # Sage Green, soft and comforting
+ # third_color  = "#F0F4F8" # Cloud Mist, light and modern
+
+
+ # main_color   = "#8B5E3C" # Chestnut Brown, grounded warmth
+ # second_color = "#2C2C2C" # Obsidian, steady authority
+ # third_color  = "#D4A017" # Burnished Gold, royal accent
 
 
 
