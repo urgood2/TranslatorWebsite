@@ -1,7 +1,7 @@
 ---
-title: "Selected Webnovels"
+title: "Webnovel Portfolio"
 type: "homepage"
-intro: "A few titles I’ve worked on."
+intro: "Titles I’ve worked on."
 
 technical_groups:
   - title: "Webnovel Portfolio"
