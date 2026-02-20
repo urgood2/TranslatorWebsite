@@ -8,6 +8,11 @@ technical_groups:
     icon: "book"
     color_scheme: "purple"
     skills:
+      - image: "/images/covers/the-new-recruit-novel.png"
+        link: "https://www.goodreads.com/book/show/211510472-the-new-recruit-vol-1"
+        name_en: "The New Recruit"
+        name_ko: "신입사원"
+
       - image: "/images/covers/the-flower-of-alosha-novel.png"
         link: "https://www.goodreads.com/book/show/204878175-the-flower-of-alosha"
         name_en: "The Flower of Alosha"
