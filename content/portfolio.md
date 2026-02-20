@@ -8,6 +8,21 @@ technical_groups:
     icon: "book"
     color_scheme: "purple"
     skills:
+      - image: "/images/covers/the-flower-of-alosha-novel.png"
+        link: "https://www.goodreads.com/book/show/204878175-the-flower-of-alosha"
+        name_en: "The Flower of Alosha"
+        name_ko: "알로샤의 꽃"
+
+      - image: "/images/covers/sahan-novel.png"
+        link: "https://publang.com/novel/details/67ddeecac458879df8b16773"
+        name_en: "Sahan"
+        name_ko: "사한"
+
+      - image: "/images/covers/dash-to-my-dearest-medalist-novel.png"
+        link: "https://www.goodreads.com/book/show/238839623-dash"
+        name_en: "DASH: To My Dearest Medalist"
+        name_ko: "대쉬"
+
       - image: "/images/covers/the-housekeeper-of-the-dungeon-novel.jpeg"
         link: "https://tapas.io/series/the-housekeeper-of-the-dungeon-novel/info"
         name_en: "Housekeeper of the Dungeon"
