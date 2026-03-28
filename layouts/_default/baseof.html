@@ -13,7 +13,13 @@
     <!-- Color Variables - Load first to ensure CSS custom properties are available -->
     {{ partial "color-variables.html" . }}
     
-    <link rel="stylesheet" href="{{ "css/main.css" | relURL }}?v={{ now.Unix }}" data-version="{{ now.Unix }}">
+    {{ if eq (getenv "HUGO_ENVIRONMENT") "production" }}
+      {{ $styles := resources.Get "css/main.css" | postCSS (dict "config" "./postcss.config.js") }}
+      {{ $styles = $styles | minify | fingerprint }}
+      <link rel="stylesheet" href="{{ $styles.RelPermalink }}" data-version="{{ now.Unix }}">
+    {{ else }}
+      <link rel="stylesheet" href="{{ "css/main.css" | relURL }}?v={{ now.Unix }}" data-version="{{ now.Unix }}">
+    {{ end }}
     <style>
         /* Critical CSS to prevent FOUC */
         body {
