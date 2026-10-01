@@ -16,16 +16,6 @@
   #webtoons .project-card:hover .cover-media {
     transform: scale(1.06);
   }
-  #webtoons .webtoon-credit {
-    margin-top: .75rem;
-    font-size: .75rem;
-    line-height: 1.5;
-  }
-
-  #webtoons .webtoon-status {
-    display: block;
-    margin-top: .25rem;
-  }
 </style>
 <section id="webtoons" class="py-12 bg-bg-secondary dark:bg-bg-secondary border-t border-border-primary">
   <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
@@ -82,11 +72,6 @@
                       </div>
                     </div>
                   </div>
-                  {{ with $skill.role }}
-                    <p class="webtoon-credit text-gray-700 dark:text-text-tertiary">
-                      {{ . }}{{ with $skill.status }}<span class="webtoon-status">{{ . }}</span>{{ end }}
-                    </p>
-                  {{ end }}
                 </div>
               </a>
             {{ else }}
